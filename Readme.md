@@ -6,10 +6,9 @@ A production-ready, full-stack Inventory & Order Management System built with **
 
 | Service | URL |
 |---------|-----|
-| **Frontend** | https://stockinv.vercel.app *(update after deploy)* |
-| **Backend API** | https://stockinv-api.onrender.com *(update after deploy)* |
-| **API Docs** | https://stockinv-api.onrender.com/docs |
-| **Docker Hub** | https://hub.docker.com/r/YOUR_USERNAME/stockinv-backend |
+| **Frontend** | https://inventory-order-management-system-u.vercel.app/ |
+| **Backend API** | https://inventory-order-management-system-1-rrzx.onrender.com/ |
+| **Docker Hub** |https://hub.docker.com/r/johnchinnu524/stockinv-backend |
 
 ---
 
