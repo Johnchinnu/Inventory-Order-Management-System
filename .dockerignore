@@ -1,0 +1,22 @@
+# Git
+.git
+.gitignore
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+frontend/node_modules
+frontend/.env
+frontend/.env.*
+
+# Python
+backend/__pycache__
+backend/*.pyc
+backend/.venv
+backend/venv
+backend/.env
